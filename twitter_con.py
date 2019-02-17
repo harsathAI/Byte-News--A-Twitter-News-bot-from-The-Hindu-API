@@ -6,10 +6,11 @@ import os
 import time
 
 #API Credientials
-customer_api_key = "ggvqRq0xDzO24BWoxF2szNNpC"
-customer_api_key_sec = "XkMKDu90fbrwuVwPv1QctNKmIb2yMzCJesIgjtsWpPkR7KDxe9"
-access_token = "1059616729213546497-UbrzedSjsvD0J2OdS6h0nTf2g4e4UF"
-access_token_sec = "qurcdaSiGaWqKXNERV5t0j9iybFZzuJYf8rVMVfEXqvat"
+#Enter Your Developer API Keys
+customer_api_key = ""
+customer_api_key_sec = ""
+access_token = ""
+access_token_sec = ""
 
 #Authen the Keys
 auth = OAuthHandler(consumer_key=customer_api_key, consumer_secret=customer_api_key_sec)
