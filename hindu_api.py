@@ -4,7 +4,7 @@ import shutil
 #Getting the News Data from the API(The Hindu)
 url = ('https://newsapi.org/v2/top-headlines?'
        'country=in&'
-       'apiKey=0d307ab9d9124ff7a5e1ad6befe1b5d1')
+       'apiKey=ENTER YOUR API KEY')
 response = requests.get(url)
 json_container = response.json()
 data_dir = "news_data"
