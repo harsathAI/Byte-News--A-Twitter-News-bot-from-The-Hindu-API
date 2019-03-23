@@ -9,3 +9,6 @@
 
 ![screenshot from 2019-02-17 22-03-35](https://user-images.githubusercontent.com/30565388/52916021-dc447000-3300-11e9-9dfc-fb375b4fda00.png)
 
+### License & copyright
+© Harsath <br>
+<pre> Licensed under the Apache License 2.0.
